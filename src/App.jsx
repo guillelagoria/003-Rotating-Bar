@@ -35,7 +35,7 @@ export const App = () => {
             </p>
 
             <h3>Mi Gato</h3>
-            <img src="src\Persi.jpg" alt="My cat" />
+            <img src="https://github.com/guillelagoria/003-Rotating-Bar/blob/main/src/Persi.jpg" alt="My cat" />
             <h3>13 Datos curiosos:</h3>
 
             <ol>
