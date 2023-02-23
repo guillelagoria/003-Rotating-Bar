@@ -35,7 +35,7 @@ export const App = () => {
             </p>
 
             <h3>Mi Gato</h3>
-            <img src="src\Persi.jpg" alt="Mycat" />
+            <img src="https://images.unsplash.com/photo-1529257414772-1960b7bea4eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="Mycat" />
             <h3>13 Datos curiosos:</h3>
 
             <ol>
